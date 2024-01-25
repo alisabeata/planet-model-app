@@ -1,0 +1,17 @@
+.container {
+    position: fixed;
+    top: 15px;
+    right: 20px;
+    z-index: 11;
+    display: flex;
+    flex-wrap: wrap;
+    width: 30px;
+}
+
+.button {
+    width: 30px;
+    height: 25px;
+    margin: 0 0 10px;
+    text-align: center;
+    cursor: pointer;
+}
