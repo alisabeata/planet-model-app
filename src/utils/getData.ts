@@ -3,10 +3,17 @@ import { PlanetsType } from '@/types/planets.type'
 export async function getData(): Promise<PlanetsType[]> {
   const url = process.env.APP_URL as string
 
-  const res = await fetch(url, {
-    method: 'GET',
-  })
-  const data = await res.json()
+  try {
+    const res = await fetch(url, {
+      method: 'GET',
+    })
 
-  return data as PlanetsType[]
+    const data = await res.json()
+    return data as PlanetsType[]
+    
+  } catch (error) {
+    // Handle errors
+    console.error('Error fetching data:', error)
+    throw error
+  }
 }
