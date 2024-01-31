@@ -1,6 +1,6 @@
 'use client'
 
-import React from 'react'
+import React, { useCallback } from 'react'
 import styles from './ZoomButton.module.css'
 
 interface ZoomButtonProps {
@@ -9,18 +9,21 @@ interface ZoomButtonProps {
 }
 
 const ZoomButton: React.FC<ZoomButtonProps> = ({ ratio, setRatio }) => {
+  const increase = useCallback(
+    () => setRatio(Math.min(Math.ceil(ratio * 1.5), 600)),
+    [ratio, setRatio],
+  )
+  const decrease = useCallback(
+    () => setRatio(Math.max(Math.ceil(ratio * 0.5), 10)),
+    [ratio, setRatio],
+  )
+
   return (
     <menu className={styles.container}>
-      <button
-        className={styles.button}
-        onClick={() => (ratio < 600 ? setRatio(Math.ceil(ratio * 1.5)) : 600)}
-      >
+      <button className={styles.button} onClick={increase}>
         +
       </button>
-      <button
-        className={styles.button}
-        onClick={() => (ratio > 10 ? setRatio(Math.ceil(ratio * 0.5)) : 10)}
-      >
+      <button className={styles.button} onClick={decrease}>
         -
       </button>
     </menu>
