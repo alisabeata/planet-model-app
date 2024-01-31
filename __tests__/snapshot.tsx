@@ -1,10 +1,11 @@
 /**
  * @jest-environment jsdom
  */
-import { render } from "@testing-library/react";
-import Home from "@/pages/home/index";
+import { render } from '@testing-library/react'
+import Layout from '@/app/layout'
+import Page from '@/app/page'
 
-it("renders homepage unchanged", () => {
-  const { container } = render(<Home />);
-  expect(container).toMatchSnapshot();
-});
+it('render Layout', () => {
+  const { container } = render(<Layout>Test</Layout>)
+  expect(container).toMatchSnapshot()
+})
