@@ -9,7 +9,7 @@ This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScri
 
 ## Getting Started
 
-#### `npm run serve`
+#### `npm run dev`
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
