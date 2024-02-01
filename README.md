@@ -1,35 +1,46 @@
-# Next.js + Jest
+# Planet Model App
 
-This example shows how to configure Jest to work with Next.js.
+An astronomy application uses the NASA API and NASA HORIZON API to provide a model of the current positions of the planets on their orbits in real-time, with detailed information available by clicking on each planet.
+
+Technologies: TypeScript, React, Next.js, Jest, React Testing Libruary.
 
 This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript. This example also shows how to use Jest with the App Router and React Server Components.
 
-> **Note:** Since tests can be co-located alongside other files inside the App Router, we have placed those tests in `app/` to demonstrate this behavior (which is different than `pages/`). You can still place all tests in `__tests__` if you prefer.
 
-## Deploy your own
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-jest&project-name=with-jest&repository-name=with-jest)
-
-## How to Use
-
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
-
-In your terminal, run the following command:
+# Start Dev Server
 
 ```bash
-npx create-next-app --example with-jest with-jest-app
+npm run dev
 ```
 
-```bash
-yarn create next-app --example with-jest with-jest-app
-```
-
-```bash
-pnpm create next-app --example with-jest with-jest-app
-```
-
-## Running Tests
+# Running Tests
 
 ```bash
 npm test
+
+npm run test -- -u // to update snapshot
 ```
+
+# Build
+
+```bash
+npm run build
+```
+
+
+## Description
+
+The `app` directory contains routing elements.
+
+The `components` directory contains main functional blocks of the application.
+
+The `utils` directory contains the primary calculations.
+
+`getOrbitalPosition` calculates the orbital position of a planet based on its orbital elements. It utilizes Kepler's equations to determine the planet's position along its orbit in Cartesian coordinates (x, y). The function takes a planet object of type PlanetsType as input and returns an object containing the calculated orbital position.
+x: The x-coordinate of the planet's orbital position.
+y: The y-coordinate of the planet's orbital position.
+r: The distance from the planet to the center of the orbit.
+v: The true anomaly, representing the angular distance of the planet from the perihelion along its orbit.
+
+`getPlanetId` obtains the relevant ID needed for the NASA HORIZON API.
+
