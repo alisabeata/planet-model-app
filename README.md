@@ -7,25 +7,25 @@ Technologies: TypeScript, React, Next.js, Jest, React Testing Libruary.
 This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript. This example also shows how to use Jest with the App Router and React Server Components.
 
 
-### Start Dev Server
+## Getting Started
 
-```bash
-npm run dev
-```
+#### `npm run serve`
 
-### Running Tests
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
 
-```bash
-npm test
+#### `npm run build`
 
-npm run test -- -u // to update snapshot
-```
+Builds the app for production to the `build` folder. 
 
-### Build
 
-```bash
-npm run build
-```
+#### `npm run test`
+
+Launches the test runner in the interactive watch mode. 
+
+#### `npm run test -- -u` 
+
+Updates snapshots.
 
 
 ## Description
