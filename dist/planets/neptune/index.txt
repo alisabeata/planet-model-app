@@ -1,54 +1,55 @@
 3:I[5613,[],""]
 5:I[1778,[],""]
-4:["slug","mercury","d"]
-0:["vI_tg269C37CN4rAR6ziq",[[["",{"children":["planets",{"children":[["slug","mercury","d"],{"children":["__PAGE__?{\"slug\":\"mercury\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["planets",{"children":[["slug","mercury","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/601edac3f6e163e9.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d007c90d5c0c1cf4.css","precedence":"next","crossOrigin":""}]],"$L6"]]]]
-6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"About Mercury"}]]
+4:["slug","neptune","d"]
+0:["eDk9eJSH20Rcky5GJ2Twi",[[["",{"children":["planets",{"children":[["slug","neptune","d"],{"children":["__PAGE__?{\"slug\":\"neptune\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["planets",{"children":[["slug","neptune","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/601edac3f6e163e9.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d007c90d5c0c1cf4.css","precedence":"next","crossOrigin":""}]],"$L6"]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"About Neptune"}]]
 1:null
 7:I[851,["258","static/chunks/app/planets/%5Bslug%5D/page-6dc77279ec58089c.js"],""]
-8:T1c27,*******************************************************************************
- Revised: April 12, 2021             Mercury                            199 / 1
-
- PHYSICAL DATA (updated 2021-Apr-12):
-  Vol. Mean Radius (km) =  2440+-1        Density (g cm^-3)     = 5.427
-  Mass x10^23 (kg)      =     3.302       Volume (x10^10 km^3)  = 6.085  
-  Sidereal rot. period  =    58.6463 d    Sid. rot. rate (rad/s)= 0.00000124001
-  Mean solar day        =   175.9421 d    Core radius (km)      = ~1600 
-  Geometric Albedo      =     0.106       Surface emissivity    = 0.77+-0.06
-  GM (km^3/s^2)         = 22031.86855     Equatorial radius, Re = 2440 km
-  GM 1-sigma (km^3/s^2) =                 Mass ratio (Sun/plnt) = 6023682
-  Mom. of Inertia       =     0.33        Equ. gravity  m/s^2   = 3.701     
-  Atmos. pressure (bar) = < 5x10^-15      Max. angular diam.    = 11.0"   
-  Mean Temperature (K)  = 440             Visual mag. V(1,0)    = -0.42 
-  Obliquity to orbit[1] =  2.11' +/- 0.1' Hill's sphere rad. Rp = 94.4 
-  Sidereal orb. per.    =  0.2408467 y    Mean Orbit vel.  km/s = 47.362 
-  Sidereal orb. per.    = 87.969257  d    Escape vel. km/s      =  4.435
-                                 Perihelion  Aphelion    Mean
-  Solar Constant (W/m^2)         14462       6278        9126
-  Maximum Planetary IR (W/m^2)   12700       5500        8000
-  Minimum Planetary IR (W/m^2)   6           6           6
+8:T1c38,*******************************************************************************
+ Revised: September 30, 2021           Uranus                               799
+ 
+ PHYSICAL DATA:
+  Mass x10^24 (kg)      = 86.813          Density (g/cm^3)       =  1.271
+  Equat. radius (1 bar) = 25559+-4 km     Polar radius (km)      = 24973+-20
+  Vol. Mean Radius (km) = 25362+-12       Flattening             =  0.02293
+  Geometric Albedo      = 0.51
+  Sid. rot. period (III)= 17.24+-0.01 h   Sid. rot. rate (rad/s) = -0.000101237
+  Mean solar day, h     =~17.24           Rocky core mass (Mc/M) =  0.0012        
+  GM (km^3/s^2)         = 5793951.256     GM 1-sigma (km^3/s^2)  = +-4.3 
+  Equ. grav, ge (m/s^2) =  8.87           Pol. grav, gp (m/s^2)  =   9.19+-0.02
+  Visual magnitude V(1,0)= -7.11
+  Vis. mag. (opposition)=  +5.52          Obliquity to orbit     = 97.77 deg
+  Sidereal orbit period = 84.0120465 y    Sidereal orbit period  = 30685.4 d
+  Mean daily motion     = 0.01176904 dg/d Mean orbit velocity    =  6.8 km/s
+  Atmos. temp. (1 bar)  =  76+-2 K        Escape speed, km/s     =  21.3           
+  Aroche(ice)/Rp        =  2.20           Hill's sphere rad., Rp = 2700
+                                 Perihelion   Aphelion    Mean
+  Solar Constant (W/m^2)         4.09         3.39        3.71
+  Maximum Planetary IR (W/m^2)   0.72         0.55        0.63
+  Minimum Planetary IR (W/m^2)   0.72         0.55        0.63
 *******************************************************************************
 
 
 *******************************************************************************
-Ephemeris / API_USER Mon Feb 19 07:38:20 2024 Pasadena, USA      / Horizons    
+Ephemeris / API_USER Mon Feb 19 07:36:22 2024 Pasadena, USA      / Horizons    
 *******************************************************************************
-Target body name: Mercury (199)                   {source: DE441}
-Center body name: Earth (399)                     {source: DE441}
+Target body name: Uranus (799)                    {source: ura116}
+Center body name: Earth (399)                     {source: ura116}
 Center-site name: GEOCENTRIC
 *******************************************************************************
 Start time      : A.D. 2024-Feb-19 00:00:00.0000 UT+01:00
 Stop  time      : A.D. 2024-Feb-19 00:01:00.0000 UT+01:00
 Step-size       : 1440 minutes
 *******************************************************************************
-Target pole/equ : IAU_MERCURY                     {West-longitude positive}
-Target radii    : 2439.7, 2439.7, 2439.7 km       {Equator_a, b, pole_c}       
+Target pole/equ : IAU_URANUS                      {East-longitude positive}
+Target radii    : 25559.0, 25559.0, 24973.0 km    {Equator_a, b, pole_c}       
 Center geodetic : 0.0, 0.0, -6378.137             {E-lon(deg),Lat(deg),Alt(km)}
 Center cylindric: 0.0, 0.0, 0.0                   {E-lon(deg),Dxy(km),Dz(km)}
 Center pole/equ : ITRF93                          {East-longitude positive}
 Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}       
 Target primary  : Sun
-Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
-Rel. light bend : Sun                             {source: DE441}
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: ura116}
+Rel. light bend : Sun                             {source: ura116}
 Rel. lght bnd GM: 1.3271E+11 km^3/s^2                                          
 Atmos refraction: NO (AIRLESS)
 RA format       : HMS
@@ -65,7 +66,7 @@ Table cut-offs 3: RA/DEC angular rate (     0.0=NO )
  Date_(ZONE)_HR:MN     X_(sat-primary)_Y SatPANG  Cnst
 ******************************************************
 $$SOE
- 2024-Feb-19 00:00     -22780.5 -16218.1 233.576   Cap
+ 2024-Feb-19 00:00     264756.9 103778.1  69.755   Ari
 $$EOE
 *******************************************************************************
 Column meaning:
@@ -144,4 +145,4 @@ Computations by ...
     Author      : Jon.D.Giorgini@jpl.nasa.gov
 
 *******************************************************************************
-2:["$","section",null,{"children":[["$","h1",null,{"children":"Mercury"}],["$","$L7",null,{"data":"$8"}]]}]
+2:["$","section",null,{"children":[["$","h1",null,{"children":"Neptune"}],["$","$L7",null,{"data":"$8"}]]}]

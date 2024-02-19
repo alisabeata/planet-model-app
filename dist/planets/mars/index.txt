@@ -1,38 +1,40 @@
 3:I[5613,[],""]
 5:I[1778,[],""]
-4:["slug","sun","d"]
-0:["vI_tg269C37CN4rAR6ziq",[[["",{"children":["planets",{"children":[["slug","sun","d"],{"children":["__PAGE__?{\"slug\":\"sun\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["planets",{"children":[["slug","sun","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/601edac3f6e163e9.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d007c90d5c0c1cf4.css","precedence":"next","crossOrigin":""}]],"$L6"]]]]
-6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"About Sun"}]]
+4:["slug","mars","d"]
+0:["eDk9eJSH20Rcky5GJ2Twi",[[["",{"children":["planets",{"children":[["slug","mars","d"],{"children":["__PAGE__?{\"slug\":\"mars\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["planets",{"children":[["slug","mars","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/601edac3f6e163e9.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","planets","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d007c90d5c0c1cf4.css","precedence":"next","crossOrigin":""}]],"$L6"]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"About Mars"}]]
 1:null
 7:I[851,["258","static/chunks/app/planets/%5Bslug%5D/page-6dc77279ec58089c.js"],""]
-8:T1c31,*******************************************************************************
- Revised: July 31, 2013                  Sun                                 10
+8:T1c8b,*******************************************************************************
+ Revised: June 21, 2016                 Mars                            499 / 4
+ 
+ PHYSICAL DATA (updated 2019-Oct-29):
+  Vol. mean radius (km) = 3389.92+-0.04   Density (g/cm^3)      =  3.933(5+-4)
+  Mass x10^23 (kg)      =    6.4171       Flattening, f         =  1/169.779
+  Volume (x10^10 km^3)  =   16.318        Equatorial radius (km)=  3396.19
+  Sidereal rot. period  =   24.622962 hr  Sid. rot. rate, rad/s =  0.0000708822 
+  Mean solar day (sol)  =   88775.24415 s Polar gravity m/s^2   =  3.758
+  Core radius (km)      = ~1700           Equ. gravity  m/s^2   =  3.71
+  Geometric Albedo      =    0.150                                              
 
- PHYSICAL PROPERTIES (updated 2018-Aug-15):
-  GM, km^3/s^2          = 132712440041.93938  Mass, 10^24 kg        = ~1988500
-  Vol. mean radius, km  = 695700              Volume, 10^12 km^3    = 1412000
-  Solar radius (IAU)    = 696000 km           Mean density, g/cm^3  = 1.408
-  Radius (photosphere)  = 696500 km           Angular diam at 1 AU  = 1919.3"
-  Photosphere temp., K  = 6600 (bottom)       Photosphere temp., K  = 4400(top)
-  Photospheric depth    = ~500 km             Chromospheric depth   = ~2500 km
-  Flatness, f           = 0.00005             Adopted sid. rot. per.= 25.38 d
-  Surface gravity       =  274.0 m/s^2        Escape speed, km/s    =  617.7
-  Pole (RA,DEC), deg.   = (286.13, 63.87)     Obliquity to ecliptic = 7.25 deg.
-  Solar constant (1 AU) = 1367.6 W/m^2        Luminosity, 10^24 J/s = 382.8
-  Mass-energy conv rate = 4.260 x 10^9 kg/s   Effective temp, K     = 5772
-  Sunspot cycle         = 11.4 yr             Cycle 24 sunspot min. = 2008 A.D.
-
-  Motion relative to nearby stars = apex : R.A.= 271 deg.; DEC.= +30 deg.
-                                    speed: 19.4 km/s (0.0112 au/day)
-  Motion relative to 2.73K BB/CBR = apex : l= 264.7 +- 0.8; b= 48.2 +- 0.5 deg.
-                                    speed: 369 +-11 km/s
+  GM (km^3/s^2)         = 42828.375214    Mass ratio (Sun/Mars) = 3098703.59
+  GM 1-sigma (km^3/s^2) = +- 0.00028      Mass of atmosphere, kg= ~ 2.5 x 10^16
+  Mean temperature (K)  =  210            Atmos. pressure (bar) =    0.0056 
+  Obliquity to orbit    =   25.19 deg     Max. angular diam.    =  17.9"
+  Mean sidereal orb per =    1.88081578 y Visual mag. V(1,0)    =  -1.52
+  Mean sidereal orb per =  686.98 d       Orbital speed,  km/s  =  24.13
+  Hill's sphere rad. Rp =  319.8          Escape speed, km/s    =   5.027
+                                 Perihelion  Aphelion    Mean
+  Solar Constant (W/m^2)         717         493         589
+  Maximum Planetary IR (W/m^2)   470         315         390
+  Minimum Planetary IR (W/m^2)    30          30          30
 *******************************************************************************
 
 
 *******************************************************************************
-Ephemeris / API_USER Mon Feb 19 07:38:20 2024 Pasadena, USA      / Horizons    
+Ephemeris / API_USER Mon Feb 19 07:36:22 2024 Pasadena, USA      / Horizons    
 *******************************************************************************
-Target body name: Sun (10)                        {source: DE441}
+Target body name: Mars (499)                      {source: mar097}
 Center body name: Earth (399)                     {source: DE441}
 Center-site name: GEOCENTRIC
 *******************************************************************************
@@ -40,8 +42,8 @@ Start time      : A.D. 2024-Feb-19 00:00:00.0000 UT+01:00
 Stop  time      : A.D. 2024-Feb-19 00:01:00.0000 UT+01:00
 Step-size       : 1440 minutes
 *******************************************************************************
-Target pole/equ : IAU_SUN                         {East-longitude positive}
-Target radii    : 696000.0, 696000.0, 696000.0 km {Equator_a, b, pole_c}       
+Target pole/equ : IAU_MARS                        {West-longitude positive}
+Target radii    : 3396.19, 3396.19, 3376.2 km     {Equator_a, b, pole_c}       
 Center geodetic : 0.0, 0.0, -6378.137             {E-lon(deg),Lat(deg),Alt(km)}
 Center cylindric: 0.0, 0.0, 0.0                   {E-lon(deg),Dxy(km),Dz(km)}
 Center pole/equ : ITRF93                          {East-longitude positive}
@@ -65,7 +67,7 @@ Table cut-offs 3: RA/DEC angular rate (     0.0=NO )
  Date_(ZONE)_HR:MN     X_(sat-primary)_Y SatPANG  Cnst
 ******************************************************
 $$SOE
- 2024-Feb-19 00:00          0.0      0.0     0.0   Aqr
+ 2024-Feb-19 00:00     -87855.2 -30851.5 247.168   Cap
 $$EOE
 *******************************************************************************
 Column meaning:
@@ -144,4 +146,4 @@ Computations by ...
     Author      : Jon.D.Giorgini@jpl.nasa.gov
 
 *******************************************************************************
-2:["$","section",null,{"children":[["$","h1",null,{"children":"Sun"}],["$","$L7",null,{"data":"$8"}]]}]
+2:["$","section",null,{"children":[["$","h1",null,{"children":"Mars"}],["$","$L7",null,{"data":"$8"}]]}]
