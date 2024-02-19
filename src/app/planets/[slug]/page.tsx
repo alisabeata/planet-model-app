@@ -1,8 +1,8 @@
 import About from '@/components/About'
 import { toSentenceCase } from '@/utils/toSentenceCase'
 import { getPlanetData } from '@/utils/getPlanetData'
-import { PlanetsNameType } from '@/types/planets.type'
-import { getDateNow } from '@/utils/getDateNow'
+import { PlanetsType, PlanetsNameType } from '@/types/planets.type'
+import { getData } from '@/utils/getData'
 
 type Params = {
   params: {
@@ -12,6 +12,14 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   return { title: `About ${toSentenceCase(params.slug)}` }
+}
+
+export async function generateStaticParams() {
+  const data = await getData() as PlanetsType[]
+
+  return data.map((planet: PlanetsType) => ({
+    slug: planet.name.toLocaleLowerCase(),
+  }))
 }
 
 export default async function Page({ params }: Params) {
