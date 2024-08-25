@@ -55,3 +55,9 @@ export interface PlanetsType {
   fetchElements: true
   center: string
 }
+
+export interface PlanetPosition {
+  name: string
+  eclipticLongitude: number
+  eclipticLatitude?: number
+}

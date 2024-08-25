@@ -28,6 +28,8 @@ export async function getPlanetData(planet: PlanetsNameType): Promise<any> {
 
     const rawData = await res.text() // Get raw response as text
 
+    //return rawData
+
     const celestialCoordinates = parseHorizonsData(rawData)
 
     return convertRaDecToEcliptic(

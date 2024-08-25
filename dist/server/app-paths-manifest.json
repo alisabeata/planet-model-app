@@ -1,4 +1,3 @@
 {
-  "/page": "app/page.js",
-  "/planets/[slug]/page": "app/planets/[slug]/page.js"
+  "/natal-chart/page": "app/natal-chart/page.js"
 }
