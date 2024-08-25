@@ -1,50 +1,7 @@
 import { PlanetsNameType } from '@/types/planets.type'
-import { getDateNow } from '@/utils/getDateNow'
-import { getPlanetId } from '@/utils/getPlanetId'
-
-// Define the types for the parsed data
-interface HorizonsData {
-  ra?: string
-  dec?: string
-  distance?: number
-  apparentMagnitude?: number
-  angularDiameter?: number
-}
-
-function parseHorizonsData(rawData: any): HorizonsData {
-  const parsedData: HorizonsData = {}
-
-  // Extract Right Ascension and Declination
-  const raDecRegex = /(\d{2} \d{2} \d{2}\.\d+) \+(\d{2} \d{2} \d+\.\d+)/
-  const raDecMatch = rawData.match(raDecRegex)
-  if (raDecMatch) {
-    parsedData.ra = raDecMatch[1]
-    parsedData.dec = raDecMatch[2]
-  }
-
-  // Extract distance (delta)
-  const deltaRegex = /delta\s+(\d+\.\d+)/
-  const deltaMatch = rawData.match(deltaRegex)
-  if (deltaMatch) {
-    parsedData.distance = parseFloat(deltaMatch[1])
-  }
-
-  // Extract apparent magnitude
-  const apMagRegex = /APmag\s+(\d+\.\d+)/
-  const apMagMatch = rawData.match(apMagRegex)
-  if (apMagMatch) {
-    parsedData.apparentMagnitude = parseFloat(apMagMatch[1])
-  }
-
-  // Extract angular diameter
-  const angDiamRegex = /Ang-diam\s+(\d+\.\d+)/
-  const angDiamMatch = rawData.match(angDiamRegex)
-  if (angDiamMatch) {
-    parsedData.angularDiameter = parseFloat(angDiamMatch[1])
-  }
-
-  return parsedData
-}
+import getPlanetId from '@/utils/actions/getPlanetId'
+import getDateNow from '@/utils/actions/getDateNow'
+import parseHorizonsData from '@/utils/actions/parseHorizonsData'
 
 export async function getPlanetData(planet: PlanetsNameType): Promise<any> {
   try {
