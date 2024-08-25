@@ -12,10 +12,11 @@
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
-    "/_not-found/page": [
+    "/planets/[slug]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/css/app/planets/[slug]/page.css",
+      "static/chunks/app/planets/[slug]/page.js"
     ]
   }
 }

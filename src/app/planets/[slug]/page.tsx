@@ -26,12 +26,10 @@ export default async function Page({ params }: Params) {
   const planet = toSentenceCase(params.slug) as PlanetsNameType
   const data = await getPlanetData(planet)
 
-  console.log(data)
-
   return (
     <section>
       <h1>{toSentenceCase(params.slug)}</h1>
-      <About data={''} />
+      <About data={data} />
     </section>
   )
 }

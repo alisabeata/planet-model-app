@@ -8,8 +8,8 @@
 
 // Define the types for the parsed data
 interface HorizonsData {
-  ra?: string
-  dec?: string
+  ra: string
+  dec: string
   distance?: number
   apparentMagnitude?: number
   angularDiameter?: number
@@ -17,7 +17,7 @@ interface HorizonsData {
 
 // Get celestial coordinates
 function parseHorizonsData(rawData: string): HorizonsData {
-  const parsedData: HorizonsData = {}
+  const parsedData: HorizonsData = { ra: '', dec: '' }
 
   // Extract Right Ascension and Declination
   const raDecRegex = /(\d{2} \d{2} \d{2}\.\d+) \+(\d{2} \d{2} \d+\.\d+)/

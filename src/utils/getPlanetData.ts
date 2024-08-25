@@ -2,6 +2,7 @@ import { PlanetsNameType } from '@/types/planets.type'
 import getPlanetId from '@/utils/actions/getPlanetId'
 import getDateNow from '@/utils/actions/getDateNow'
 import parseHorizonsData from '@/utils/actions/parseHorizonsData'
+import convertRaDecToEcliptic from './actions/convertRaDecToEcliptic'
 
 export async function getPlanetData(planet: PlanetsNameType): Promise<any> {
   try {
@@ -27,7 +28,12 @@ export async function getPlanetData(planet: PlanetsNameType): Promise<any> {
 
     const rawData = await res.text() // Get raw response as text
 
-    return parseHorizonsData(rawData)
+    const celestialCoordinates = parseHorizonsData(rawData)
+
+    return convertRaDecToEcliptic(
+      celestialCoordinates.ra,
+      celestialCoordinates.dec,
+    )
   } catch (error) {
     console.error('Error fetching planet data:', error)
     throw error // Rethrow the error for the caller to handle
