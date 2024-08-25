@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Params) {
 }
 
 export async function generateStaticParams() {
-  const data = await getData() as PlanetsType[]
+  const data = (await getData()) as PlanetsType[]
 
   return data.map((planet: PlanetsType) => ({
     slug: planet.name.toLocaleLowerCase(),
@@ -24,12 +24,14 @@ export async function generateStaticParams() {
 
 export default async function Page({ params }: Params) {
   const planet = toSentenceCase(params.slug) as PlanetsNameType
-  const data = (await getPlanetData(planet)) as string
+  const data = await getPlanetData(planet)
+
+  console.log(data)
 
   return (
     <section>
       <h1>{toSentenceCase(params.slug)}</h1>
-      <About data={data as string} />
+      <About data={''} />
     </section>
   )
 }
